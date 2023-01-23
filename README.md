@@ -1,7 +1,7 @@
 # 108_days_of_ML
 This repository consists of all my learnings in Machine Learning
 
-Day 1: Data Preprocessing Steps
+Day 1: Data Preprocessing Steps 
 
 Data preprocessing is a process of preparing the raw data and making it suitable for a machine learning model. It is the first and crucial step while creating a machine learning model.
 
