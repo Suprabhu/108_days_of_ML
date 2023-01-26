@@ -5,6 +5,8 @@ Day 1: Data Preprocessing Steps
 
 Day 2: Simple Linear Regression 
 
-Day 3: Multiple Linear Regression
+Day 3: Multiple Linear Regression 
+
+Day 4: Polynomial Regression
 
          
