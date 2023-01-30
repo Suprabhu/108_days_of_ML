@@ -10,3 +10,5 @@ Day 3: Multiple Linear Regression
 Day 4: Polynomial Regression
 
 Day 5: Support Vector Regression         
+
+Day 6: Decision Tree Regression
