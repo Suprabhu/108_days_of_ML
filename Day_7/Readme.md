@@ -4,4 +4,5 @@ Random Forest Regression
 
 soruce: https://www.javatpoint.com/machine-learning-random-forest-algorithm
 
+Random Forest Regression model has been implemented on to predict Salary of a person based on his level/Position.
 
