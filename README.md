@@ -11,4 +11,6 @@ Day 4: Polynomial Regression
 
 Day 5: Support Vector Regression         
 
-Day 6: Decision Tree Regression
+Day 6: Decision Tree Regression 
+
+Day 7: Random Forest Regression
